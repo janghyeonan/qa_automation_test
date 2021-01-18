@@ -2,7 +2,7 @@
 """
 Created on Fri Nov  8 14:33:08 2019
 
-@author: ajh910
+@author: janghyeonan
 """
 import socket 
 import requests
