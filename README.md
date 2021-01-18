@@ -71,5 +71,11 @@
     appium을 사용하여 모바일 앱에 접근하여 플레이 테스트 진행 (모든 소스는 들어있지 않습니다.)
     selenium은 사용하지 않았으나, 이후 작성한 앱에서는  selenium을 사용하였습니다.
 
+## log_popup_anaysis.py
 
+    로그 분석을 위한 자동화 테스트 구현
+    실행은 pytest로 진행하여, 리포트는 allure report로 출력한 파일
+    테스트 진행 후 테스트 결과를 html리포트로 받을 수 있습니다.
+    당시 리포트는 링크 : https://janghyeonan.github.io/report
+    
 
