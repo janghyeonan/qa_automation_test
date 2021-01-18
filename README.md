@@ -76,6 +76,7 @@
     로그 분석을 위한 자동화 테스트 구현
     실행은 pytest로 진행하여, 리포트는 allure report로 출력한 파일
     테스트 진행 후 테스트 결과를 html리포트로 받을 수 있습니다.
-    당시 리포트는 링크 : <https://janghyeonan.github.io/report>
+    당시 리포트는 링크 : 
+<https://janghyeonan.github.io/report>
     
 
