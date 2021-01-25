@@ -1,4 +1,4 @@
-#QA Automation Script 
+# QA Automation Script (Portfolio)
 
 # 1patch_script
 :테스트 스크립트 배포용 (서버-클라 파일)
