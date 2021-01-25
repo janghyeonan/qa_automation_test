@@ -61,6 +61,6 @@ Selenium Webdriver를 사용하여 페이지 새로고침부터 html5로 만든 
 * IOS, AOS APP의 실제 디바이스 테스트 자동화 구현
 * WEB platform 테스트 자동화 구현
 * CI 연동하여 테스트 진행 및 리포팅 구현
-* ㅉeb framework를 이용하여 웹사이트 구현
+* Web framework를 이용하여 웹사이트 구현
 * Database를 이용한 검증 및 데이터 품질 확인 python으로 구현 가능
 * 데이터 전/후 처리 시 데이터 품질 체크를 코딩으로 확인하는 테스트 구현 가능
